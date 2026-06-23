@@ -1,9 +1,13 @@
 body{
     background-color:darkgoldenrod
+    color:gold;
+    margin: 0px;
+    margin-bottom: 100px;
 }
 header{
     border-bottom:solid 2px black;
     padding: 20px;
     font-size: 32px;
-    color:darkgoldenrod;
+    color:rgb(224, 194, 116);
 }
+
