@@ -1,13 +1,34 @@
 body{
-    background-color:darkgoldenrod
+    background-color:rgb(172, 125, 7);
     color:gold;
     margin: 0px;
     margin-bottom: 100px;
 }
+
 header{
     border-bottom:solid 2px black;
     padding: 20px;
     font-size: 32px;
-    color:rgb(224, 194, 116);
+    color:rgb(77, 58, 11);
 }
 
+.capa{
+
+ color:goldenrod;
+ font-size: 20px;
+
+}
+
+#Bela{
+
+    display: flex;
+    padding-left: 200px;
+}
+
+.videos{
+
+    display: flex;
+    overflow: auto;
+    gap: 10px;
+
+}
